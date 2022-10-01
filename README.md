@@ -2,7 +2,7 @@
 <p> Un mic script pentru a da auto-pull la origin odata la fiecare 10 secunde.</p>
 
 ## Imagini <br/>
-!(image)[https://i.imgur.com/1z8clKJ.jpg]
+<img src="https://i.imgur.com/1z8clKJ.jpg" />
 
 ## Setup
 <p>Editeaza in repository.txt locatia repository-ului tau. </p>
