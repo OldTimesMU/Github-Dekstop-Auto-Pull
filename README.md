@@ -1,2 +1,15 @@
-# Github-Dekstop-Auto-Pull
- This will check every 10 seconds if there is any update on your github repository and will pull it.
+# Github Auto Pull
+<p> Un mic script pentru a da auto-pull la origin odata la fiecare 10 secunde.</p>
+
+## Imagini <br/>
+!(image)[https://i.imgur.com/1z8clKJ.jpg]
+
+## Setup
+<p>Editeaza in repository.txt locatia repository-ului tau. </p>
+
+
+## Credits: <br/>
+<b><a href="https://discord.gg/OldTimes">Discord.gg/OldTimes</a></b><br/>
+<b><a href="https://otrp.ro">OTRP.RO</a></b><br/>
+<span>OldTimes</span><br/>
+
