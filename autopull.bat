@@ -1,7 +1,7 @@
 @echo off
 set INTERVAL=10
 :loop
-REM for /F %%i in (reposirtory.txt) do call :autopull %%i
+REM for /F %%i in (repository.txt) do call :autopull %%i
 :autopull
 echo =========================
 echo == discord.gg/OldTimes ==
